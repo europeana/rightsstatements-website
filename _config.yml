@@ -89,20 +89,6 @@ defaults:
       lang: "pl"
       categories: ["pl"]
       iso_name: "Polski"
-  -
-    scope:
-      path: "nl"
-    values:
-      lang: "nl"
-      categories: ["nl"]
-      iso_name: "Dutch"
-  -
-    scope:
-      path: "it"
-    values:
-      lang: "it"
-      categories: ["it"]
-      iso_name: "Italian"
 author: rightsstatements.org
 permalink: /:categories/:year/:month/:slug.html
 plugins:
