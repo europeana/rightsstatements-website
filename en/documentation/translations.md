@@ -7,7 +7,7 @@ filename: translations
 ---
 # Translations of the rights statements
 
-The rights statements and underlying infrastructure of rightsstatements.org have been designed to work internationally in many languages. At the moment our rights statements are only available in English. If you are interested in working with us on translating the rights statements please contact us at [info@rightsstatements.org](mailto:info@rightsstatements.org). Translations of the rights statements need to be produced in line with our [translation policy]({{site.url}}/en/documentation/translation-policy/) which you can find on our [Documentation]({{site.url}}/en/documentation/) page.
+The rights statements and underlying infrastructure of rightsstatements.org have been designed to work internationally in many languages. If you are interested in working with us on translating the rights statements please contact us at [info@rightsstatements.org](mailto:info@rightsstatements.org). Translations of the rights statements need to be produced in line with our [translation policy]({{site.url}}/en/documentation/translation-policy/) which you can find on our [Documentation]({{site.url}}/en/documentation/) page.
 
 <div class="box">
 
