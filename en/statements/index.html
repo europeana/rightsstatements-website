@@ -57,7 +57,7 @@
       if (enabled_languages.indexOf(user_language) != -1) {
         window.location.href = "{{ site.app_url }}/page/1.0/?language=" + user_language;
       } else {
-        window.location.href = "{{ site.app_url }}/page/1.0/?language=" + default_language + "/";
+        window.location.href = "{{ site.app_url }}/page/1.0/?language=" + default_language;
       }
     </script>
     <title>Page Redirection</title>

@@ -77,11 +77,25 @@ defaults:
       iso_name: "Hrvatski"
   -
     scope:
+      path: "it"
+    values:
+      lang: "it"
+      categories: ["it"]
+      iso_name: "Italiana"
+  -
+    scope:
       path: "lt"
     values:
       lang: "lt"
       categories: ["lt"]
       iso_name: "Lietuva"
+  -
+    scope:
+      path: "nl"
+    values:
+      lang: "nl"
+      categories: ["nl"]
+      iso_name: "Dutch"
   -
     scope:
       path: "pl"
