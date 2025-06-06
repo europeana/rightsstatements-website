@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Not Supported
+title: Language not supported
 filename: unsupportedParam
 ---
 # Language not supported

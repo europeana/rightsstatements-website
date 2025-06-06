@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Not Supported
+title: Date format not supported
 filename: unsupportedDate
 ---
 # Date format not supported

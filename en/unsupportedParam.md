@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Not Supported
+title: Parameter not supported by statement
 filename: unsupportedParam
 ---
 # Parameter not supported by statement
