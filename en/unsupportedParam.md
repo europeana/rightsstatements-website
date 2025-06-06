@@ -17,6 +17,6 @@ The following section indicates the additional parameters and which rights state
 
 <code>date</code>
 
-* [No Copyright – Non-Commercial Use Only](https://rightsstatements.org/page/NoC-NC/1.0/)
+* [NoC-NC](https://rightsstatements.org/page/NoC-NC/1.0/)
 
 </div>
