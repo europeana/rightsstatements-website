@@ -63,6 +63,13 @@ defaults:
       iso_name: "Français"
   -
     scope:
+      path: "ga"
+    values:
+      lang: "ga"
+      categories: ["ga"]
+      iso_name: "Gaeilge"
+  -
+    scope:
       path: "hi"
     values:
       lang: "hi"
