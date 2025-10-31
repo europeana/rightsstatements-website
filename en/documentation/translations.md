@@ -7,7 +7,7 @@ filename: translations
 ---
 # Translations of the rights statements
 
-The rights statements and underlying infrastructure of rightsstatements.org have been designed to work internationally in many languages. If you are interested in working with us on translating the rights statements please contact us at [info@rightsstatements.org](mailto:info@rightsstatements.org). Translations of the rights statements need to be produced in line with our [translation policy]({{site.url}}/en/documentation/translation-policy/) which you can find on our [Documentation]({{site.url}}/en/documentation/) page.
+The rights statements and underlying infrastructure of rightsstatements.org have been designed to work internationally in many languages. If you are interested in working with us on translating the rights statements please contact us at [copyright@europeana.eu](mailto:copyright@europeana.eu). Translations of the rights statements need to be produced in line with our [translation policy]({{site.url}}/en/documentation/translation-policy/) which you can find on our [Documentation]({{site.url}}/en/documentation/) page.
 
 <div class="box">
 
@@ -31,7 +31,7 @@ The rights statements have been translated into the following languages:
 ## Translations under public review
 
 As described in our [translation policy]({{site.url}}/en/documentation/translation-policy/), every draft translation is published for a public comment period of 4
-weeks. If you wish to review a draft translation, please contact us at [info@rightsstatements.org](mailto:info@rightsstatements.org) indicating the language that you wish to review.
+weeks. If you wish to review a draft translation, please contact us at [copyright@europeana.eu](mailto:copyright@europeana.eu) indicating the language that you wish to review.
 
 We will give you access to the system we use for this purpose so that you can complete your revision. The feedback from the public comment period will be addressed by the translation partner together with the reviewer(s).
 
@@ -45,6 +45,6 @@ There are currently 5 translation efforts underway:
 * **Bangla** - Translation partner [National Digital Library of India](https://ndl.iitkgp.ac.in/) (NDLI) and [Indian Institute of Technology Kharagpur](http://www.iitkgp.ac.in/) of India. Review by [Jadavpur University](http://www.jaduniv.edu.in/) of India
 * **Serbian** - Translation partner [Wikimedia Serbia](http://wikimedia.rs/). Translation by Nevenka Antic, [Creative Commons Serbia](http://creativecommons.org.rs/). Review by the [National Library of Serbia](https://www.nb.rs/?change_lang=en).
 
-Applications from new translation partners should be sent to [info@rightsstatements.org](mailto:info@rightsstatements.org).
+Applications from new translation partners should be sent to [copyright@europeana.eu](mailto:copyright@europeana.eu).
 
 </div>
