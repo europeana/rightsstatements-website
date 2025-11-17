@@ -15,6 +15,13 @@ defaults:
       lang: "en"
       categories: ["en"]
       iso_name: "English"
+
+  - scope:
+      path: "ca"
+    values:
+      lang: "ca"
+      categories: [ "ca" ]
+      iso_name: "Català"
   -
     scope:
       path: "de"
