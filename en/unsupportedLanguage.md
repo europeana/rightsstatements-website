@@ -18,6 +18,7 @@ filename: unsupportedParam
  * [Polish](https://rightsstatements.org/page/1.0/?language=pl)
  * [Spanish](https://rightsstatements.org/page/1.0/?language=es)
  * [Hindi](https://rightsstatements.org/page/1.0/?language=hi)
+ * [Gaeilge](https://rightsstatements.org/page/1.0/?language=ga)
  * [Lithuanian](https://rightsstatements.org/page/1.0/?language=lt)
  * [Dutch](https://rightsstatements.org/page/1.0/?language=nl)
  * [Italian](https://rightsstatements.org/page/1.0/?language=it)

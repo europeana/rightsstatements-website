@@ -40,7 +40,7 @@ lang: en
 
 - I feel that none of the statements covers the copyright status of digital objects that I want to make available
 
-    If you feel that none of the statements covers the copyright status of works that you want to make available please get in touch with us via [info@rightsstatements.org](mailto:info@rightsstatements.org) with a description of the situation that you are facing. While we aim for the statements to cover all possible scenarios the international copyright landscape is incredibly complex and it may very well be the case that we have not addressed all existing scenarios. <br/><br/>Please note that we have intentionally not published rights statements for situations that are addressed by the Creative Commons licenses, the Creative Commons Public Domain Mark and the CC Zero Public Domain Dedication.
+    If you feel that none of the statements covers the copyright status of works that you want to make available please get in touch with us via [copyright@europeana.eu](mailto:copyright@europeana.eu) with a description of the situation that you are facing. While we aim for the statements to cover all possible scenarios the international copyright landscape is incredibly complex and it may very well be the case that we have not addressed all existing scenarios. <br/><br/>Please note that we have intentionally not published rights statements for situations that are addressed by the Creative Commons licenses, the Creative Commons Public Domain Mark and the CC Zero Public Domain Dedication.
 
 ## For users
 

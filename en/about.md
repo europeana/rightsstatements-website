@@ -29,6 +29,7 @@ Members of the interim Governance Committee:
 * Maarten Zeinstra
 * Melissas Levine
 * Valentine Charles
+* Ariadna Matas
 
 ## Our Previous Work Plans
 
