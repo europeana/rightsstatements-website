@@ -1,7 +1,7 @@
 ---
-layout: leathanach
+layout: page
 title: Ráitis ar Chearta - Liosta de na ráitis Cóipcheart ar bith
-section_id: ráitis
+section_id: statements
 lang: ga
 ---
 

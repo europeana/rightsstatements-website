@@ -1,7 +1,7 @@
 ---
-layout: leathanach
+layout: page
 title: Ráitis ar Chearta
-section_id: ráitis
+section_id: statements
 alias: /vocab/
 lang: ga
 ---

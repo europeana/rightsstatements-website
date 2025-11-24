@@ -1,5 +1,5 @@
 ---
-layout: tosach
+layout: front
 title: RightsStatements.org
 lang: ga
 ---

@@ -1,7 +1,7 @@
 ---
-layout: leathanach
+layout: page
 title: Ráitis ar Chearta - Liosta de ráitis eile
-section_id: ráitis
+section_id: statements
 lang: ga
 ---
 
@@ -10,4 +10,3 @@ lang: ga
 Tá na trí ráiteas ar chearta seo a leanas beartaithe le húsáid le nithe digiteacha i gcás nár cinneadh an stádas cóipchirt go cinntitheach. Níor chóir iad seo a úsáid ach amháin mura féidir ráiteas ar chearta nó ceadúnas níos soiléire a úsáid.
 
 {% include collection.html collection_id="collection-other" %}
-
