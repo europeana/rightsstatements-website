@@ -14,11 +14,11 @@ This page contains an overview of all changes made to the rights statements publ
 
 #### 2025-11-27
 
-Added Irish translation of [version 1.0 of the rights statements]({{site.app_url}}/page/1.0/?language=ga), and the [home page]({{site.app_url}}/ga/). Changed the contact information to [copyright@europeana.eu](mailto:copyright@europeana.eu)
+Added Irish translation of [version 1.0 of the rights statements]({{site.app_url}}/page/1.0/?language=ga), and the [home page]({{site.app_url}}/ga/). Changed the contact information to [copyright@europeana.eu](mailto:copyright@europeana.eu).
 
 #### 2025-02-18
 
-Introduced [robots.txt]({{site.app_url}}/robots.txt) and [sitemap.xml]({{site.app_url}}/sitemap.xml)
+Introduced [robots.txt]({{site.app_url}}/robots.txt) and [sitemap.xml]({{site.app_url}}/sitemap.xml).
 
 #### 2020-05-27
 
