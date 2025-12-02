@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'Public Review of Irish Translation of the Rights Statement'
+title: 'Irish Translation of the Rights Statement'
 date: 2025-08-13T00:00:00.000Z
-filename: 'Public Review of Irish Translation of the Rights Statement'
+filename: 'Irish Translation of the Rights Statement'
 ---
 
 We're pleased to announce that the public review process for the **Irish translation of the Rights Statement** is closed and the [Irish translation](https://rightsstatements.org/page/1.0/?language=ga) is now available.
